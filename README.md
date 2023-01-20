@@ -1,0 +1,2 @@
+## Social Network Analysis
+The repository contains two notebooks: one is for the creation of the dataset (using the public Github API) in two `.csv` files, the other notebook contains the code used for the analysis of the resulting network.
