@@ -1,0 +1,12 @@
+Node u_1710 has betweenness centrality 0.4703289313283779
+Node u_1387 has betweenness centrality 0.4398901534290559
+Node u_2712 has betweenness centrality 0.009618500765823849
+Node u_2125 has betweenness centrality 0.004504485559402676
+Node u_2180 has betweenness centrality 0.003881150205018476
+Node u_3174 has betweenness centrality 0.0030214588822351637
+Node u_957 has betweenness centrality 0.0025193007937907705
+Node u_1207 has betweenness centrality 0.0024694943601352936
+Node u_776 has betweenness centrality 0.002030059550218193
+Node u_28 has betweenness centrality 0.001999912391358061
+
+Mean betweenness centrality for users: 0.00028614468189174115

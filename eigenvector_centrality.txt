@@ -1,0 +1,23 @@
+Eigenvector centrality of first 10 repositories in descending order:
+Repository r_667 has eigenvector centrality 0.02807241600112121
+Repository r_963 has eigenvector centrality 0.0252872002485827
+Repository r_126 has eigenvector centrality 0.02508444065051212
+Repository r_204 has eigenvector centrality 0.024918586221542628
+Repository r_969 has eigenvector centrality 0.02484594166364357
+Repository r_3 has eigenvector centrality 0.024744005513770605
+Repository r_41 has eigenvector centrality 0.024621133427994935
+Repository r_252 has eigenvector centrality 0.02459630822116519
+Repository r_0 has eigenvector centrality 0.02452737750133048
+Repository r_115 has eigenvector centrality 0.024420314891656622
+
+Eigenvector centrality of first 10 users in descending order:
+User u_1710 has eigenvector centrality 0.49917648037912005
+User u_1387 has eigenvector centrality 0.4976560737491123
+User u_2712 has eigenvector centrality 0.021178422969835194
+User u_776 has eigenvector centrality 0.01404028576450716
+User u_1205 has eigenvector centrality 0.009409539530923217
+User u_2125 has eigenvector centrality 0.008625366235509292
+User u_1461 has eigenvector centrality 0.008589875908040364
+User u_2180 has eigenvector centrality 0.008390442787245711
+User u_3060 has eigenvector centrality 0.0068374099322502475
+User u_3222 has eigenvector centrality 0.006559110191899708
